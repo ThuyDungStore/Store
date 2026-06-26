@@ -1,24 +1,6 @@
 {
   "Truyền Hình": [
     {
-      "id": "MonsterTV",
-      "title": "MonsterTV",
-      "icon": "https://lh3.googleusercontent.com/d/1LHHZiXGddPnq-H7M812RAXdrQsDglgfs",
-      "rating": 4.2,
-      "version": "3.2.0",
-      "oldVersion": "",
-      "description": "Truyền hình trực tuyến,Các kênh truyền hình địa phương, quốc tế: Bao gồm tin tức, thể thao, phim truyện, ca nhạc từ nhiều quốc gia, mở rộng tầm nhìn giải trí toàn cầu ngay tại ngôi nhà của bạn..",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Monster.TV.v.3.2.0.apk",
-      "updateUrl": "",
-      "packageName": "com.quang.monstertv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1ZkJPi7b3TbqDF0yk6aBAkEmW1vAvaN_M",
-        "https://lh3.googleusercontent.com/d/1CalZuyWbOl80qZ2av0mrYApboOBEvz9X"
-      ]
-    },
-    {
       "id": "iMediaTV",
       "title": "iMediaTV ",
       "icon": "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",

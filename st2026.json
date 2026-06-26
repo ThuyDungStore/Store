@@ -266,6 +266,21 @@
         "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/TRUY%E1%BB%80N%20H%C3%8CNH/SCTV1.jpg",
         "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/TRUY%E1%BB%80N%20H%C3%8CNH/SCTV1.jpg"
       ]
+    },
+    {
+      "id": "app_1782477154249",
+      "title": "Get Out",
+      "icon": "",
+      "rating": 5.0,
+      "version": "2.0",
+      "oldVersion": "",
+      "description": "",
+      "changelog": "",
+      "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/Get_Out-4-2.0.apk",
+      "updateUrl": "",
+      "packageName": "com.linor.vn.getout",
+      "isLocked": false,
+      "screenshots": []
     }
   ],
   "Youtube": [

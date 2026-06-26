@@ -316,6 +316,21 @@
       "screenshots": [
         "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/1782474454280_lich-wcup-2026-nld-ban-dep.jpg"
       ]
+    },
+    {
+      "id": "app_1782475635424",
+      "title": "VietPlay TV",
+      "icon": "",
+      "rating": 5.0,
+      "version": "2.3",
+      "oldVersion": "",
+      "description": "",
+      "changelog": "",
+      "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/VietPlay_TV_2.3.apk",
+      "updateUrl": "",
+      "packageName": "com.nghenhin24h.vietplaytv",
+      "isLocked": false,
+      "screenshots": []
     }
   ],
   "Youtube": [

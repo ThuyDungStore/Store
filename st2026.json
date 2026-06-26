@@ -299,6 +299,23 @@
       "packageName": "com.linor.vn.getout",
       "isLocked": false,
       "screenshots": []
+    },
+    {
+      "id": "app_1782474430521",
+      "title": "Vừa Mới Thấy",
+      "icon": "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/icons/1782474447986_wc2026.png",
+      "rating": 5.0,
+      "version": "3.0.0.0",
+      "oldVersion": "",
+      "description": "test app",
+      "changelog": "",
+      "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/1782474436439_VuaMoiThay.apk",
+      "updateUrl": "",
+      "packageName": "com.truyenhinh.vmt",
+      "isLocked": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/1782474454280_lich-wcup-2026-nld-ban-dep.jpg"
+      ]
     }
   ],
   "Youtube": [

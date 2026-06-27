@@ -1,77 +1,6 @@
 {
   "Truyền Hình": [
     {
-      "id": "DLTivi",
-      "title": "DLTivi",
-      "icon": "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",
-      "rating": 4.5,
-      "version": "16.0.2",
-      "oldVersion": "",
-      "description": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/BaoStore/releases/download/BaoStoreapp/DLTivi_16.0.2.apk",
-      "updateUrl": "",
-      "packageName": "com.dinhlap.tivi",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",
-        "https://lh3.googleusercontent.com/d/133vlKybVu5IXHqHnE6exaGkcZex9Xscc"
-      ]
-    },
-    {
-      "id": "CòTiVi",
-      "title": "CòTiVi",
-      "icon": "https://lh3.googleusercontent.com/d/1Uk4iFF6w7pfq2Cad3_22914VG8E6xeDd",
-      "rating": 4.5,
-      "version": "1.1.3",
-      "oldVersion": "",
-      "description": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/BaoStore/releases/download/BaoStoreapp/Cotivi_1.1.3.apk",
-      "updateUrl": "",
-      "packageName": "com.cofvuong.tivi",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1ajSuZ_y4w85r_vryp4ls77wEXdFIxtqI",
-        "https://lh3.googleusercontent.com/d/1K7TajVCkGpLOcSp3Bm75skfTRTL-5qbf"
-      ]
-    },
-    {
-      "id": "vAppTV",
-      "title": "vAppTV",
-      "icon": "https://lh3.googleusercontent.com/d/1_QS9kqQz7uKyD0j6tWZE7AtVwDhOOEBv",
-      "rating": 4.5,
-      "version": "1.0.2",
-      "oldVersion": "",
-      "description": "Ứng dụng xem truyền hình thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/vapptv.apk",
-      "updateUrl": "",
-      "packageName": "com.vproject.vapptv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1SNt1amvLvWZHWx9IZGQ4xzLeliUN2OJ_",
-        "https://lh3.googleusercontent.com/d/1VCueOoU8akM1bH03wA-VQaDPPzhJMxML"
-      ]
-    },
-    {
-      "id": "QUANGTV",
-      "title": "QUANGTV",
-      "icon": "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/QUANGTV/QUANTV.jpg",
-      "rating": 5.0,
-      "version": "520921",
-      "oldVersion": "",
-      "description": "Truyền hình IPTV",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/BaoStore/releases/download/BaoStoreapp/Quantv.apk",
-      "updateUrl": "",
-      "packageName": "com.anhbaotv.app",
-      "isLocked": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/QUANGTV/QUANTV.jpg"
-      ]
-    },
-    {
       "id": "TV360",
       "title": "TV360",
       "icon": "https://lh3.googleusercontent.com/d/1FoKzNUQTs3xHEGGQgyE3nWAtTQD06sML",
@@ -141,23 +70,6 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1df9mNRKOlE-uN-o7RotqrJ_8z-1xZE9i",
         "https://lh3.googleusercontent.com/d/1tMIok_HwAASINy4kqwO0P0Jda1bRZ5wg"
-      ]
-    },
-    {
-      "id": "app_1782537021810",
-      "title": "Get Out",
-      "icon": "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/icons/wc2026.png",
-      "rating": 5.0,
-      "version": "2.0",
-      "oldVersion": "",
-      "description": "",
-      "changelog": "",
-      "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/getout.apk",
-      "updateUrl": "",
-      "packageName": "com.linor.vn.getout",
-      "isLocked": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/background.jpg"
       ]
     }
   ],

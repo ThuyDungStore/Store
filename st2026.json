@@ -1,23 +1,6 @@
 {
   "Truyền Hình": [
     {
-      "id": "VietPlay TV",
-      "title": "VietPlay TV",
-      "icon": "https://lh3.googleusercontent.com/d/1zKZ1TsLjq7rpVwcTLGnZIR0QLmVSFROG",
-      "rating": 4.5,
-      "version": "2.3",
-      "oldVersion": "",
-      "description": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/BaoStore/releases/download/BaoStoreapp/Vietplaytv_2.3.apk",
-      "updateUrl": "",
-      "packageName": "com.nghenhin24h.vietplaytv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/14Fxn-maa_7MQl3qaqOBTG-jMcBrvHdFU"
-      ]
-    },
-    {
       "id": "DLTivi",
       "title": "DLTivi",
       "icon": "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",

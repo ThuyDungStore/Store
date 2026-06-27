@@ -93,42 +93,6 @@
       ]
     },
     {
-      "id": "Youtube2",
-      "title": "SmartTube(stable)",
-      "icon": "https://lh3.googleusercontent.com/d/1nDFoughGJVkS9iVqOKSrDuQqzUg6VRdc",
-      "rating": 4.0,
-      "version": "31.63s",
-      "oldVersion": "",
-      "description": "Smarttube ứng dụng giải trí nghe nhạc ,xem phim,vv...được loại bỏ quảng cáo.",
-      "changelog": "Tính năng mới:\n- Unplayable videos fix and memory consumption optimizations",
-      "downloadUrl": "https://github.com/yuliskov/SmartTube/releases/download/31.63s/SmartTube_stable_31.63_arm64-v8a.apk",
-      "updateUrl": "",
-      "packageName": "com.teamsmart.videomanager.tv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1i6QHWkn4TLAEejn8FIEyUU1V1LJEKhFp",
-        "https://lh3.googleusercontent.com/d/1fAU7aVvB5L1ITDQpbHOlWH5HOxwGBVJX"
-      ]
-    },
-    {
-      "id": "Youtube3",
-      "title": "SmartTube(beta)",
-      "icon": "https://lh3.googleusercontent.com/d/1Xr4OneYRA30hOmhTfFeO5Tts8KyJhfxJ",
-      "rating": 4.0,
-      "version": "31.63",
-      "oldVersion": "",
-      "description": "Smarttube ứng dụng giải trí nghe nhạc ,xem phim,vv...được loại bỏ quảng cáo.",
-      "changelog": "Tính năng mới:\n- Previous release fixes",
-      "downloadUrl": "https://github.com/yuliskov/SmartTube/releases/download/31.63/SmartTube_beta_31.63_arm64-v8a.apk",
-      "updateUrl": "",
-      "packageName": "com.teamsmart.videomanager.tv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1N8wpmU5ZE2zC0EJTSsNneByxaoihDCVU",
-        "https://lh3.googleusercontent.com/d/1fAU7aVvB5L1ITDQpbHOlWH5HOxwGBVJX"
-      ]
-    },
-    {
       "id": "Youtube4",
       "title": "TiZenTube(Mod)",
       "icon": "https://lh3.googleusercontent.com/d/1gyy-iR0bCY_Z0vyNktXfQIYhC0KJO3on",
@@ -144,58 +108,6 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1XycZbgkhOOpzZHFEEUDaWndNmGtljQof",
         "https://lh3.googleusercontent.com/d/1r4Qq8tM2QFYSaIOK5Xs2QCeIQGdidLTI"
-      ]
-    },
-    {
-      "id": "Youtube5",
-      "title": "TiZenTube",
-      "icon": "https://lh3.googleusercontent.com/d/1gyy-iR0bCY_Z0vyNktXfQIYhC0KJO3on",
-      "rating": 4.0,
-      "version": "1.04",
-      "oldVersion": "",
-      "description": "TizenTube ứng dụng giải trí nghe nhạc ,xem phim,vv...được loại bỏ quảng cáo.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/cobalt-arm1.0.4.apk",
-      "updateUrl": "",
-      "packageName": "com.cobalt.youtube.tv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1H57yVU39Mj80ZhtPTJg_GTab52FyfmF_",
-        "https://lh3.googleusercontent.com/d/1r4Qq8tM2QFYSaIOK5Xs2QCeIQGdidLTI"
-      ]
-    },
-    {
-      "id": "Youtube6",
-      "title": "YouTube Revanced",
-      "icon": "https://lh3.googleusercontent.com/d/1b9JzurKb6mPoGNWhv1mgVmcRSLgHNpJX",
-      "rating": 4.0,
-      "version": "3.2.5",
-      "oldVersion": "",
-      "description": "YouTube Revanced hổ trợ chuột.",
-      "changelog": "",
-      "downloadUrl": "...",
-      "updateUrl": "",
-      "packageName": "",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1VTGgC5kIYgOk0ILIJWqBquRg8pkfyaBa"
-      ]
-    },
-    {
-      "id": "Youtube7",
-      "title": "MicroG",
-      "icon": "https://lh3.googleusercontent.com/d/1b9JzurKb6mPoGNWhv1mgVmcRSLgHNpJX",
-      "rating": 4.0,
-      "version": "3.2.5",
-      "oldVersion": "",
-      "description": "Hổ trợ khi cài đặt YouTube Revanced ",
-      "changelog": "",
-      "downloadUrl": "...",
-      "updateUrl": "",
-      "packageName": "",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1-laZW6ZGNDwtwN0TRmoXQTU5_iLkC0p5"
       ]
     }
   ],

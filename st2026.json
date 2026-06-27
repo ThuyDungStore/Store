@@ -113,24 +113,6 @@
   ],
   "Xem Phim": [
     {
-      "id": "Phim1",
-      "title": "Rổ giải trí",
-      "icon": "https://lh3.googleusercontent.com/d/1vGEBOiJ_6lxtusl6bCRbaVFf-PZmU2DB",
-      "rating": 4.3,
-      "version": "1.1.8",
-      "oldVersion": "",
-      "description": "Kênh giải trí Xem phim, trực tiếp các giải bóng đá hàng đầu và thể thao đặc sắc.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/R.Gi.i.Tri.v.1.1.8.apk",
-      "updateUrl": "",
-      "packageName": "com.rophim.android.tv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1B0QOetRzPUOULtg-sG-49K5IsfAVi34Z",
-        "https://lh3.googleusercontent.com/d/1_uKJTtmfNO0Px0T19-tpWKjNh35m_6EZ"
-      ]
-    },
-    {
       "id": "Phim2",
       "title": "CloudStream (MOD)",
       "icon": "https://lh3.googleusercontent.com/d/1Vv0_oPJ90guV5QRpcDwpQ7Za3siCoDJJ",
@@ -146,24 +128,6 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/13tOY-VkA1Oc4BbGgthEOJaTlJfqvv-_8",
         "https://lh3.googleusercontent.com/d/1W5-lwbfwbOBsldItOTy2CM2E0c-FiYbK"
-      ]
-    },
-    {
-      "id": "Phim3",
-      "title": "Phim 4K (TV)",
-      "icon": "https://lh3.googleusercontent.com/d/1Z_58e_mTUpuBQHI7owzBvJyIhKcLLeAF",
-      "rating": 4.3,
-      "version": "2.1.5",
-      "oldVersion": "",
-      "description": "Xem trực tiếp phim chất lượng cao độ phân giải 4K sống động.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Phim4K-v2.1.5.apk",
-      "updateUrl": "",
-      "packageName": "com.oxootv.spagreen",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1Z_58e_mTUpuBQHI7owzBvJyIhKcLLeAF",
-        "https://lh3.googleusercontent.com/d/1if8eHxu5DIG3BXfrJeMtISs7HNhNq3bX"
       ]
     },
     {
@@ -200,24 +164,6 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1J6yoq8mmHtprWmiyMReDwzR9zxCqIkfd",
         "https://lh3.googleusercontent.com/d/1N93d-c8DpwgK2-w62M5VKnPM-ijlCRsB"
-      ]
-    },
-    {
-      "id": "Phim6",
-      "title": "PhimNe",
-      "icon": "https://lh3.googleusercontent.com/d/1UKPpvBnLr-_omWUwyafsc4JrChFKFyz_",
-      "rating": 4.3,
-      "version": "3.1.1",
-      "oldVersion": "",
-      "description": "Xem phim online miễn phí với chất lượng.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/PhimNe.v.3.1.1.apk",
-      "updateUrl": "",
-      "packageName": "com.jakendis.streambox",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1g3TqVUxoI-V8Xi_pzQF6zDNtmRNQULpp",
-        "https://lh3.googleusercontent.com/d/18qn6PEaUjqnS6ZqnTYOLyfMsPIaFOdWr"
       ]
     }
   ],

@@ -37,24 +37,6 @@
         "https://lh3.googleusercontent.com/d/140MJ407y6XHX3ab42TC9IJzC4KmNz2O0",
         "https://lh3.googleusercontent.com/d/10V8yolHeBVluwAkUJHB0C4pUHD0qBMik"
       ]
-    },
-    {
-      "id": "Youtube4",
-      "title": "TiZenTube(Mod)",
-      "icon": "https://lh3.googleusercontent.com/d/1gyy-iR0bCY_Z0vyNktXfQIYhC0KJO3on",
-      "rating": 4.0,
-      "version": "1.03",
-      "oldVersion": "",
-      "description": "TizenTube mod gióng youtube gốc ứng dụng giải trí nghe nhạc ,xem phim,vv...được loại bỏ quảng cáo (Cần xoá youtube gốc).",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/cobalt.youtube.tv.apk",
-      "updateUrl": "",
-      "packageName": "com.google.android.youtube.tv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1XycZbgkhOOpzZHFEEUDaWndNmGtljQof",
-        "https://lh3.googleusercontent.com/d/1r4Qq8tM2QFYSaIOK5Xs2QCeIQGdidLTI"
-      ]
     }
   ],
   "Xem Phim": [

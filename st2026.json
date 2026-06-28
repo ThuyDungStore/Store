@@ -17,6 +17,24 @@
         "https://lh3.googleusercontent.com/d/1_qvnOvRkZaVfETyXuEOf8-5eqXj9mU8U",
         "https://lh3.googleusercontent.com/d/1aaSyJx-feTrl2BGw-iPyhKzPmsd7ylvK"
       ]
+    },
+    {
+      "id": "app_1782669429601",
+      "title": "ThuyDungTV",
+      "icon": "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/icons/9w.png",
+      "rating": 5.0,
+      "version": "1.0",
+      "oldVersion": "",
+      "description": "",
+      "changelog": "",
+      "downloadUrl": "https://drive.google.com/file/d/1Ssyf7vbMIkjCfyC-4ngEbw5TTsOe_Bcg/view?usp=drive_link",
+      "updateUrl": "",
+      "packageName": "com.apptv.tdstivi",
+      "isLocked": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/z7983955236390_3d405e0c2853e7263642f24dd1292d76.jpg",
+        "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/9w.png"
+      ]
     }
   ],
   "Youtube": [

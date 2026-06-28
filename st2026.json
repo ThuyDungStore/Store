@@ -41,24 +41,6 @@
   ],
   "Xem Phim": [
     {
-      "id": "Phim2",
-      "title": "CloudStream (MOD)",
-      "icon": "https://lh3.googleusercontent.com/d/1Vv0_oPJ90guV5QRpcDwpQ7Za3siCoDJJ",
-      "rating": 4.3,
-      "version": "4.6.0",
-      "oldVersion": "",
-      "description": "(pas:nghien android tv)là kênh giả trí được tích họp nhiều nguồn bạn có thể chọn.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/CloudStream.MOD.apk",
-      "updateUrl": "",
-      "packageName": "com.lagradost.cloudstream3",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/13tOY-VkA1Oc4BbGgthEOJaTlJfqvv-_8",
-        "https://lh3.googleusercontent.com/d/1W5-lwbfwbOBsldItOTy2CM2E0c-FiYbK"
-      ]
-    },
-    {
       "id": "Phim4",
       "title": "iQIYI",
       "icon": "https://lh3.googleusercontent.com/d/17ypQpN7Ohkn4p538-KvubPpHDq2jP7s-",
@@ -74,24 +56,6 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1D9sVlqRmTYo3kA4YCAF2hFzYTQUC-AKD",
         "https://lh3.googleusercontent.com/d/1H2gerGrIoK8Z1ADdDyKn2-u-M85RW8mW"
-      ]
-    },
-    {
-      "id": "Phim5",
-      "title": "KODI",
-      "icon": "https://lh3.googleusercontent.com/d/1kvgfMn_di8c_jgVEc5MTzRK22LJEihbL",
-      "rating": 4.3,
-      "version": "21.2",
-      "oldVersion": "",
-      "description": "Kodi là một ứng dụng phần mềm trung tâm giải trí đa phương tiện miễn phí và mã nguồn mở, cho phép người dùng xem phim, nghe nhạc, xem ảnh và truy cập nhiều nội dung khác từ nhiều nguồn như ổ cứng, mạng nội bộ hoặc Internet. Ứng dụng có thể tùy biến giao diện .",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Kodi.v.21.2.apk",
-      "updateUrl": "",
-      "packageName": "org.xbmc.kodi",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1J6yoq8mmHtprWmiyMReDwzR9zxCqIkfd",
-        "https://lh3.googleusercontent.com/d/1N93d-c8DpwgK2-w62M5VKnPM-ijlCRsB"
       ]
     }
   ],

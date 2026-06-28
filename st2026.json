@@ -425,22 +425,5 @@
         "https://lh3.googleusercontent.com/d/12sF00U1kytD9NlcIDB7TJvO8IZy1Xj7o"
       ]
     }
-  ],
-  "Giao Diện": [
-    {
-      "id": "gd1",
-      "title": "Đang cập nhật",
-      "icon": "https://lh3.googleusercontent.com/d/1Eq6J5fEA9ttNyh1WjQjTRsIJgjfDUvto",
-      "rating": 5.0,
-      "version": "1.0.0",
-      "oldVersion": "",
-      "description": "Một ứng dụng hoàn toàn mới.",
-      "changelog": "",
-      "downloadUrl": "...",
-      "updateUrl": "",
-      "packageName": "com.example.newapp",
-      "isLocked": false,
-      "screenshots": []
-    }
   ]
 }

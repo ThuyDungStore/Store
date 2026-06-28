@@ -19,42 +19,6 @@
       ]
     },
     {
-      "id": "VTVCab",
-      "title": "VTVCab",
-      "icon": "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/VTVon_icon.png",
-      "rating": 4.5,
-      "version": "2.2.1",
-      "oldVersion": "",
-      "description": "Ứng dụng xem truyền hình,thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/BaoStore/releases/download/BaoStoreapp/Vtvcab_2.2.1.apk",
-      "updateUrl": "",
-      "packageName": "com.vtvcab.onTV",
-      "isLocked": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/1.jpg",
-        "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/VTVCab.png"
-      ]
-    },
-    {
-      "id": "VTVgo",
-      "title": "VTVgo",
-      "icon": "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/VTVgo_icon.png",
-      "rating": 4.5,
-      "version": "11.12.30",
-      "oldVersion": "",
-      "description": "Ứng dụng xem truyền hình,thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/BaoStore/releases/download/BaoStoreapp/Vtvgotv_11.12.30.apk",
-      "updateUrl": "",
-      "packageName": "vn.vtv.vtvgotv",
-      "isLocked": false,
-      "screenshots": [
-        "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/VTVgo1.png",
-        "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/VTVgo2.png"
-      ]
-    },
-    {
       "id": "FPTPlay",
       "title": "FPTPlay",
       "icon": "https://lh3.googleusercontent.com/d/1vmuSa3KvAKxcvlGpxQiaCnNNsCfaIscC",

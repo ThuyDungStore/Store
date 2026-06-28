@@ -174,77 +174,6 @@
   ],
   "Quản lý file-Bluetooth": [
     {
-      "id": "new1",
-      "title": "MX Player Pro",
-      "icon": "https://lh3.googleusercontent.com/d/1WUzrkRbFX2txUOpDRmxg8it5pUajL6Vx",
-      "rating": 5.0,
-      "version": "1.93",
-      "oldVersion": "",
-      "description": "MX Player Pro là Phát được nhiều định dạng video và âm thanh khác nhau AndroidTV.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Videoplayer.pro.v.1.93.4.apk",
-      "updateUrl": "",
-      "packageName": "com.mxtech.videoplayer.pro",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1Gdpxeawad7IlXFwKYnN8fuP2p_OxIZKA",
-        "https://lh3.googleusercontent.com/d/10HfkSXt-BqyR1agFxJc8B-BGR67GJYWn"
-      ]
-    },
-    {
-      "id": "new2",
-      "title": "Nova Video Player",
-      "icon": "https://lh3.googleusercontent.com/d/1xSVv3lUjvg5xZoUCWn1fx3ITGL_zllNI",
-      "rating": 5.0,
-      "version": "1.0.3",
-      "oldVersion": "",
-      "description": "Nova Video Player là một ứng dụng phát video trên điện thoại Android, hỗ trợ xem nhiều định dạng video, stream trực tuyến, tải xuống và sử dụng phụ đề. Nó cung cấp trải nghiệm xem liền mạch cả video ngoại tuyến và trực tuyến, miễn phí và không có quảng cáo.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Nova.Video.Player.v.6.4.22-20251118.0944.apk",
-      "updateUrl": "",
-      "packageName": "org.courville.nova",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1iJEQ4gkQoBc9ypDfD9ec3b6HD3HFRE6d",
-        "https://lh3.googleusercontent.com/d/13EMFF8svA0l3uQ_0kYUmwPQJ5lo7TQpJ"
-      ]
-    },
-    {
-      "id": "new3",
-      "title": "xplorer",
-      "icon": "https://lh3.googleusercontent.com/d/12YgqSsn1zALPLcbwDMl10vyhkEOwpdf7",
-      "rating": 5.0,
-      "version": "4.44.20",
-      "oldVersion": "",
-      "description": "X-plore: Một ứng dụng quản lý tệp tin trên thiết bị Android, có giao diện hai ngăn và nhiều tính năng hữu ích như quản lý ứng dụng, truy cập tệp qua Wi-Fi.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Xplore.v.4.44.20.apk",
-      "updateUrl": "",
-      "packageName": "com.lonelycatgames.Xplore",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1p_0qhX2PsUh5w9rEwyg9V8rz9k5SzZpm"
-      ]
-    },
-    {
-      "id": "new4",
-      "title": "File Manager Plus",
-      "icon": "https://lh3.googleusercontent.com/d/1rkFBLNZEm_nlJGZ2iUbvukXxMaCRQ9BS",
-      "rating": 5.0,
-      "version": "3.2.2",
-      "oldVersion": "",
-      "description": "Thực hiện các thao tác cơ bản như tạo, sao chép, dán, di chuyển, đổi tên, xóa tệp và thư mục một cách hiệu quả.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/FileManager_Plus_3.2.2.apk",
-      "updateUrl": "",
-      "packageName": "com.alphainventor.filemanager",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1TgxeyvGrtHL3dAuzjllSmzGeg_FrtbzV",
-        "https://lh3.googleusercontent.com/d/1gC7LvrYw5ADJMaiGCMfbcNQpZ0aKFzGN"
-      ]
-    },
-    {
       "id": "new5",
       "title": "Filemanager",
       "icon": "https://lh3.googleusercontent.com/d/1SsmOeivqfW1LvRAuJcYKfZGSRoMWf3ab",
@@ -263,24 +192,6 @@
       ]
     },
     {
-      "id": "new6",
-      "title": "Send Files to TV",
-      "icon": "https://lh3.googleusercontent.com/d/1wHIW89YYIMS-p2rRlk1OebkTcpcyyq0a",
-      "rating": 5.0,
-      "version": "1.4.1",
-      "oldVersion": "",
-      "description": "Send Files to TV là một ứng dụng đơn giản giúp bạn gửi và nhận tệp tin như phim, ảnh, nhạc, tài liệu, tệp APK giữa các thiết bị Android.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Send.Files.To.TV.v1.4.1.Premium.apk",
-      "updateUrl": "",
-      "packageName": "com.yablio.sendfilestotv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/16Yvo3p1MSThEMSm8RtayyuFV_E8jA1-f",
-        "https://lh3.googleusercontent.com/d/1yy71Eb7bM20tLxUP71R7n6bBvmwV6MHo"
-      ]
-    },
-    {
       "id": "new7",
       "title": "Tìm Bluetooth",
       "icon": "https://lh3.googleusercontent.com/d/1C6Ys7U8rAUlMgHA-PyzQDFZwO-ndVSPa",
@@ -292,21 +203,6 @@
       "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/bluetoothtvscanner.v.2.0.apk",
       "updateUrl": "",
       "packageName": "com.zdworksinc.bluetoothtvscanner",
-      "isLocked": false,
-      "screenshots": []
-    },
-    {
-      "id": "new8",
-      "title": "Bluetooth Remote",
-      "icon": "https://lh3.googleusercontent.com/d/1ZL6saf9FSDScKbOfScvpLNHnXY6Iv5Tz",
-      "rating": 5.0,
-      "version": "1.6.0",
-      "oldVersion": "",
-      "description": "Bluetooth Remote là một thiết bị điều khiển từ xa kết nối với điện thoại thông minh với TV Box ,AndroidTV.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/btremote.v.1.6.0.apk",
-      "updateUrl": "",
-      "packageName": "com.atharok.btremote",
       "isLocked": false,
       "screenshots": []
     }

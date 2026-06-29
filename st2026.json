@@ -19,24 +19,6 @@
       ]
     },
     {
-      "id": "iMediaTV",
-      "title": "iMediaTV",
-      "icon": "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
-      "rating": 5.0,
-      "version": "4.2",
-      "oldVersion": "",
-      "description": "",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/iMedia.TV.v.25.04.06.B.apk",
-      "updateUrl": "",
-      "packageName": "com.kt.apps.media.xemtv.beta",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
-        "https://lh3.googleusercontent.com/d/1kaAxJK0l5umTlPU0tp3kCZrS1_gDdA0w"
-      ]
-    },
-    {
       "id": "TV360",
       "title": "TV360",
       "icon": "https://lh3.googleusercontent.com/d/1FoKzNUQTs3xHEGGQgyE3nWAtTQD06sML",
@@ -52,6 +34,24 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1_qvnOvRkZaVfETyXuEOf8-5eqXj9mU8U",
         "https://lh3.googleusercontent.com/d/1aaSyJx-feTrl2BGw-iPyhKzPmsd7ylvK"
+      ]
+    },
+    {
+      "id": "iMediaTV",
+      "title": "iMediaTV",
+      "icon": "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
+      "rating": 5.0,
+      "version": "4.2",
+      "oldVersion": "",
+      "description": "",
+      "changelog": "",
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/iMedia.TV.v.25.04.06.B.apk",
+      "updateUrl": "",
+      "packageName": "com.kt.apps.media.xemtv.beta",
+      "isLocked": false,
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
+        "https://lh3.googleusercontent.com/d/1kaAxJK0l5umTlPU0tp3kCZrS1_gDdA0w"
       ]
     },
     {

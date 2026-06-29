@@ -53,6 +53,24 @@
         "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
         "https://lh3.googleusercontent.com/d/1kaAxJK0l5umTlPU0tp3kCZrS1_gDdA0w"
       ]
+    },
+    {
+      "id": "app_1782711753626",
+      "title": "DL-TV",
+      "icon": "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",
+      "rating": 5.0,
+      "version": "16",
+      "oldVersion": "",
+      "description": "",
+      "changelog": "",
+      "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/DLtv.apk",
+      "updateUrl": "",
+      "packageName": "com.apptv.dl",
+      "isLocked": false,
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",
+        "https://lh3.googleusercontent.com/d/133vlKybVu5IXHqHnE6exaGkcZex9Xscc"
+      ]
     }
   ],
   "Youtube": [

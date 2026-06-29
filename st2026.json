@@ -19,24 +19,6 @@
       ]
     },
     {
-      "id": "TV360",
-      "title": "TV360",
-      "icon": "https://lh3.googleusercontent.com/d/1FoKzNUQTs3xHEGGQgyE3nWAtTQD06sML",
-      "rating": 4.5,
-      "version": "5.4",
-      "oldVersion": "",
-      "description": "Ứng dụng xem truyền hình,thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/TV360.tv.v.5.4.apk",
-      "updateUrl": "",
-      "packageName": "com.viettel.tv360.tv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1_qvnOvRkZaVfETyXuEOf8-5eqXj9mU8U",
-        "https://lh3.googleusercontent.com/d/1aaSyJx-feTrl2BGw-iPyhKzPmsd7ylvK"
-      ]
-    },
-    {
       "id": "iMediaTV",
       "title": "iMediaTV",
       "icon": "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
@@ -52,6 +34,24 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
         "https://lh3.googleusercontent.com/d/1kaAxJK0l5umTlPU0tp3kCZrS1_gDdA0w"
+      ]
+    },
+    {
+      "id": "TV360",
+      "title": "TV360",
+      "icon": "https://lh3.googleusercontent.com/d/1FoKzNUQTs3xHEGGQgyE3nWAtTQD06sML",
+      "rating": 4.5,
+      "version": "5.4",
+      "oldVersion": "",
+      "description": "Ứng dụng xem truyền hình,thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
+      "changelog": "",
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/TV360.tv.v.5.4.apk",
+      "updateUrl": "",
+      "packageName": "com.viettel.tv360.tv",
+      "isLocked": false,
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1_qvnOvRkZaVfETyXuEOf8-5eqXj9mU8U",
+        "https://lh3.googleusercontent.com/d/1aaSyJx-feTrl2BGw-iPyhKzPmsd7ylvK"
       ]
     },
     {

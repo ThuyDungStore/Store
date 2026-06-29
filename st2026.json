@@ -35,6 +35,23 @@
         "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/z7983955236390_3d405e0c2853e7263642f24dd1292d76.jpg",
         "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/9w.png"
       ]
+    },
+    {
+      "id": "iMediaTV",
+      "title": "iMediaTV",
+      "icon": "https://lh3.googleusercontent.com/d/1tKga1m7Vg7UeevzAmy-bmfdT5YF44qad",
+      "rating": 5.0,
+      "version": "4.2",
+      "oldVersion": "",
+      "description": "",
+      "changelog": "",
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/iMedia.TV.v.25.04.06.B.apk",
+      "updateUrl": "",
+      "packageName": "com.kt.apps.media.xemtv.beta",
+      "isLocked": false,
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1kaAxJK0l5umTlPU0tp3kCZrS1_gDdA0w"
+      ]
     }
   ],
   "Youtube": [

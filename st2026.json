@@ -204,7 +204,26 @@
       ]
     }
   ],
-  "Thể Thao": [],
+  "Thể Thao": [
+    {
+      "id": "app_1782729023037",
+      "title": "SportsTV",
+      "icon": "https://lh3.googleusercontent.com/d/1Mc5fxKY8AOISsTtLjRDhz6UgD_0J0waa",
+      "rating": 5.0,
+      "version": "5.1.1",
+      "oldVersion": "",
+      "description": "SportsTV có thể là một ứng dụng cung cấp nội dung thể thao, như phim và chương trình truyền hình thể thao,Được thêm từ các nguồn bên ngoài.",
+      "changelog": "",
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Sports.tv.v.5.1.1.apk",
+      "updateUrl": "",
+      "packageName": "com.sports.tv",
+      "isLocked": false,
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1b6ltmlcKEULdVsrebMHWiFiTL5MTngw7",
+        "https://lh3.googleusercontent.com/d/10Jozu1h3_mRkdlLh6I4hCvFifOSs2CuN"
+      ]
+    }
+  ],
   "KaRaoKe-Âm nhạc": [
     {
       "id": "ka1",

@@ -184,6 +184,24 @@
         "https://lh3.googleusercontent.com/d/1D9sVlqRmTYo3kA4YCAF2hFzYTQUC-AKD",
         "https://lh3.googleusercontent.com/d/1H2gerGrIoK8Z1ADdDyKn2-u-M85RW8mW"
       ]
+    },
+    {
+      "id": "app_1782715540188",
+      "title": "Ro Phimm",
+      "icon": "https://lh3.googleusercontent.com/d/1vGEBOiJ_6lxtusl6bCRbaVFf-PZmU2DB",
+      "rating": 5.0,
+      "version": "1.0.0",
+      "oldVersion": "",
+      "description": "Kênh giải trí Xem phim, trực tiếp các bộ phim đặc sắc",
+      "changelog": "",
+      "downloadUrl": "",
+      "updateUrl": "",
+      "packageName": "com.rophim.android.tv",
+      "isLocked": false,
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1B0QOetRzPUOULtg-sG-49K5IsfAVi34Z",
+        "https://lh3.googleusercontent.com/d/1_uKJTtmfNO0Px0T19-tpWKjNh35m_6EZ"
+      ]
     }
   ],
   "Thể Thao": [],

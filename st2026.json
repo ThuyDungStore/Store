@@ -108,6 +108,24 @@
         "https://lh3.googleusercontent.com/d/1df9mNRKOlE-uN-o7RotqrJ_8z-1xZE9i",
         "https://lh3.googleusercontent.com/d/1tMIok_HwAASINy4kqwO0P0Jda1bRZ5wg"
       ]
+    },
+    {
+      "id": "app_1782715238166",
+      "title": "MyTV",
+      "icon": "https://lh3.googleusercontent.com/d/1QTGCurhprOTVHg_giXpadgMJ6mC4_X4j",
+      "rating": 5.0,
+      "version": "3.52",
+      "oldVersion": "",
+      "description": "Ứng dụng xem truyền hình trực tuyến chính thức của VNPT.",
+      "changelog": "",
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/MyTV.v.3.52.0_431_2206141108.apk",
+      "updateUrl": "",
+      "packageName": "vn.mytvnet.b2cott",
+      "isLocked": false,
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1wlPEYWGqimDn9ZIJZcnv7PGaokADTV_Z",
+        "https://lh3.googleusercontent.com/d/1F6dMCgP2W_EsYSyVwyUa5ndUOZT-LZfL"
+      ]
     }
   ],
   "Youtube": [

@@ -222,6 +222,24 @@
         "https://lh3.googleusercontent.com/d/1b6ltmlcKEULdVsrebMHWiFiTL5MTngw7",
         "https://lh3.googleusercontent.com/d/10Jozu1h3_mRkdlLh6I4hCvFifOSs2CuN"
       ]
+    },
+    {
+      "id": "app_1782729186541",
+      "title": "SportzX",
+      "icon": "https://lh3.googleusercontent.com/d/1-rAayzRWafW4tqQ7m8On6Np061HQuSjV",
+      "rating": 5.0,
+      "version": "3.0",
+      "oldVersion": "",
+      "description": "SportzX là một ứng dụng xem thể thao, xem phim miễn phí.",
+      "changelog": "",
+      "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/sportzx.apk",
+      "updateUrl": "",
+      "packageName": "com.sportzx.live",
+      "isLocked": false,
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1-rAayzRWafW4tqQ7m8On6Np061HQuSjV",
+        "https://lh3.googleusercontent.com/d/1knxLD_R_AEAVtuiHvnDeTop4bn8JAjEa"
+      ]
     }
   ],
   "KaRaoKe-Âm nhạc": [

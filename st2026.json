@@ -351,6 +351,24 @@
         "https://lh3.googleusercontent.com/d/1shIWB4PGGgiDR1oV_xwq2L2pO0W6w7NZ",
         "https://lh3.googleusercontent.com/d/19ICxhD8kNeanL7r-XHUhDPRmLRPik5t-"
       ]
+    },
+    {
+      "id": "app_1782837171755",
+      "title": "Spotify TV",
+      "icon": "https://lh3.googleusercontent.com/d/13BoQ4OFt9BjtadoA0QTokpwl51QykX9g",
+      "rating": 5.0,
+      "version": "1.9.0",
+      "oldVersion": "",
+      "description": "",
+      "changelog": "",
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/spotify.V1.90.apk",
+      "updateUrl": "",
+      "packageName": "om.spotify.tv.android",
+      "isLocked": false,
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1PeAk0OSUfYDDl9I8XGxI52u2dV61WySP",
+        "https://lh3.googleusercontent.com/d/1YKPccznnZl2UAtH4AU14qzfHLwWOiMRQ"
+      ]
     }
   ],
   "Trình Duyệt": [

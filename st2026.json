@@ -331,6 +331,24 @@
         "https://lh3.googleusercontent.com/d/1-rAayzRWafW4tqQ7m8On6Np061HQuSjV",
         "https://lh3.googleusercontent.com/d/1knxLD_R_AEAVtuiHvnDeTop4bn8JAjEa"
       ]
+    },
+    {
+      "id": "app_1782839749500",
+      "title": "Spotify TV",
+      "icon": "https://lh3.googleusercontent.com/d/1lqToJ_XgvnfQ8L44PbF7Fm449ekCRxxe",
+      "rating": 5.0,
+      "version": "1.9.0",
+      "oldVersion": "",
+      "description": "Trực tiếp thể thao vv....",
+      "changelog": "",
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/Cricfy.tv.v.5.3.apk",
+      "updateUrl": "",
+      "packageName": "com.spotify.tv.android",
+      "isLocked": false,
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/13pZhSGTD1Cdi5qgEQiWIa7zi2_xmt0Yr",
+        "https://lh3.googleusercontent.com/d/1M5wEiVMiujX9e8HnnRWH1EZ7vQi6-eBX"
+      ]
     }
   ],
   "KaRaoKe-Âm nhạc": [

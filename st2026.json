@@ -163,6 +163,25 @@
         "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/VTVCab.png",
         "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/1.jpg"
       ]
+    },
+    {
+      "id": "app_1782836668782",
+      "title": "VTVgo",
+      "icon": "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/VTVgo_icon.png",
+      "rating": 5.0,
+      "version": "11.12.30",
+      "oldVersion": "",
+      "description": "",
+      "changelog": "",
+      "downloadUrl": "https://github.com/anhbaotv/BaoStore/releases/download/BaoStoreapp/Vtvgotv_11.12.30.apk",
+      "updateUrl": "",
+      "packageName": "vn.vtv.vtvgotv",
+      "isLocked": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/VTVgo_icon.png",
+        "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/VTVgo1.png",
+        "https://raw.githubusercontent.com/anhbaotv/Store-Anh/main/VTVgo2.png"
+      ]
     }
   ],
   "Youtube": [

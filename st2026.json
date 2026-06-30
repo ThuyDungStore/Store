@@ -126,6 +126,24 @@
         "https://lh3.googleusercontent.com/d/1wlPEYWGqimDn9ZIJZcnv7PGaokADTV_Z",
         "https://lh3.googleusercontent.com/d/1F6dMCgP2W_EsYSyVwyUa5ndUOZT-LZfL"
       ]
+    },
+    {
+      "id": "app_1782836297841",
+      "title": "VietPlay TV",
+      "icon": "https://lh3.googleusercontent.com/d/1zKZ1TsLjq7rpVwcTLGnZIR0QLmVSFROG",
+      "rating": 5.0,
+      "version": "2.2",
+      "oldVersion": "",
+      "description": "Ứng dụng xem truyền hình trực tuyến chính thức của Hiểm Nguyễn",
+      "changelog": "",
+      "downloadUrl": "",
+      "updateUrl": "",
+      "packageName": "com.nghenhin24h.vietplaytv",
+      "isLocked": false,
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1zKZ1TsLjq7rpVwcTLGnZIR0QLmVSFROG",
+        "https://lh3.googleusercontent.com/d/14Fxn-maa_7MQl3qaqOBTG-jMcBrvHdFU"
+      ]
     }
   ],
   "Youtube": [

@@ -349,6 +349,24 @@
         "https://lh3.googleusercontent.com/d/13pZhSGTD1Cdi5qgEQiWIa7zi2_xmt0Yr",
         "https://lh3.googleusercontent.com/d/1M5wEiVMiujX9e8HnnRWH1EZ7vQi6-eBX"
       ]
+    },
+    {
+      "id": "app_1782840266754",
+      "title": "GetOut TV",
+      "icon": "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/icons/unnamed.jpg",
+      "rating": 5.0,
+      "version": "3.0.0",
+      "oldVersion": "",
+      "description": "Trực tiếp thể thao vv....",
+      "changelog": "",
+      "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/com.linor.vn.getout.apk",
+      "updateUrl": "",
+      "packageName": "com.linor.vn.getout",
+      "isLocked": false,
+      "screenshots": [
+        "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/mau-background-dep-7.jpg",
+        "https://raw.githubusercontent.com/ThuyDungStore/Store/main/images/screenshots/unnamed.jpg"
+      ]
     }
   ],
   "KaRaoKe-Âm nhạc": [

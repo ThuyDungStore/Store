@@ -92,24 +92,6 @@
       ]
     },
     {
-      "id": "app_1782713695730",
-      "title": "FPTPlay",
-      "icon": "https://lh3.googleusercontent.com/d/1vmuSa3KvAKxcvlGpxQiaCnNNsCfaIscC",
-      "rating": 5.0,
-      "version": "7.25.10",
-      "oldVersion": "",
-      "description": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/FPTPLAY.v.7.25.10.apk",
-      "updateUrl": "",
-      "packageName": "net.fptplay.ottbox",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1df9mNRKOlE-uN-o7RotqrJ_8z-1xZE9i",
-        "https://lh3.googleusercontent.com/d/1tMIok_HwAASINy4kqwO0P0Jda1bRZ5wg"
-      ]
-    },
-    {
       "id": "app_1782836297841",
       "title": "VietPlay TV",
       "icon": "https://lh3.googleusercontent.com/d/1zKZ1TsLjq7rpVwcTLGnZIR0QLmVSFROG",
@@ -125,6 +107,24 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1zKZ1TsLjq7rpVwcTLGnZIR0QLmVSFROG",
         "https://lh3.googleusercontent.com/d/14Fxn-maa_7MQl3qaqOBTG-jMcBrvHdFU"
+      ]
+    },
+    {
+      "id": "app_1782713695730",
+      "title": "FPTPlay",
+      "icon": "https://lh3.googleusercontent.com/d/1vmuSa3KvAKxcvlGpxQiaCnNNsCfaIscC",
+      "rating": 5.0,
+      "version": "7.25.10",
+      "oldVersion": "",
+      "description": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
+      "changelog": "",
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/FPTPLAY.v.7.25.10.apk",
+      "updateUrl": "",
+      "packageName": "net.fptplay.ottbox",
+      "isLocked": false,
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1df9mNRKOlE-uN-o7RotqrJ_8z-1xZE9i",
+        "https://lh3.googleusercontent.com/d/1tMIok_HwAASINy4kqwO0P0Jda1bRZ5wg"
       ]
     },
     {

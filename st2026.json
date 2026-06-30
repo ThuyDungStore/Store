@@ -535,6 +535,24 @@
         "https://lh3.googleusercontent.com/d/1eHjH3nFR3TWE6mm4KWfWGKhlkMWaU2sY",
         "https://lh3.googleusercontent.com/d/1hJmOKZvqpnHDAWQXqvUZgKHm3Hozc7Lg"
       ]
+    },
+    {
+      "id": "app_1782839425674",
+      "title": "Filemanager +",
+      "icon": "https://lh3.googleusercontent.com/d/1rkFBLNZEm_nlJGZ2iUbvukXxMaCRQ9BS",
+      "rating": 5.0,
+      "version": "3.2.2",
+      "oldVersion": "",
+      "description": "Thực hiện các thao tác cơ bản như tạo, sao chép, dán, di chuyển, đổi tên, xóa tệp và thư mục một cách hiệu quả.",
+      "changelog": "",
+      "downloadUrl": "https://github.com/ThuyDungStore/Store/releases/download/APP/FileManager.apk",
+      "updateUrl": "",
+      "packageName": "com.alphainventor.filemanager",
+      "isLocked": false,
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1TgxeyvGrtHL3dAuzjllSmzGeg_FrtbzV",
+        "https://lh3.googleusercontent.com/d/1gC7LvrYw5ADJMaiGCMfbcNQpZ0aKFzGN"
+      ]
     }
   ]
 }

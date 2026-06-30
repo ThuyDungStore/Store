@@ -74,24 +74,6 @@
       ]
     },
     {
-      "id": "TV360",
-      "title": "TV360",
-      "icon": "https://lh3.googleusercontent.com/d/1FoKzNUQTs3xHEGGQgyE3nWAtTQD06sML",
-      "rating": 4.5,
-      "version": "5.4",
-      "oldVersion": "",
-      "description": "Ứng dụng xem truyền hình,thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
-      "changelog": "",
-      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/TV360.tv.v.5.4.apk",
-      "updateUrl": "",
-      "packageName": "com.viettel.tv360.tv",
-      "isLocked": false,
-      "screenshots": [
-        "https://lh3.googleusercontent.com/d/1_qvnOvRkZaVfETyXuEOf8-5eqXj9mU8U",
-        "https://lh3.googleusercontent.com/d/1aaSyJx-feTrl2BGw-iPyhKzPmsd7ylvK"
-      ]
-    },
-    {
       "id": "app_1782836297841",
       "title": "VietPlay TV",
       "icon": "https://lh3.googleusercontent.com/d/1zKZ1TsLjq7rpVwcTLGnZIR0QLmVSFROG",
@@ -107,6 +89,24 @@
       "screenshots": [
         "https://lh3.googleusercontent.com/d/1zKZ1TsLjq7rpVwcTLGnZIR0QLmVSFROG",
         "https://lh3.googleusercontent.com/d/14Fxn-maa_7MQl3qaqOBTG-jMcBrvHdFU"
+      ]
+    },
+    {
+      "id": "TV360",
+      "title": "TV360",
+      "icon": "https://lh3.googleusercontent.com/d/1FoKzNUQTs3xHEGGQgyE3nWAtTQD06sML",
+      "rating": 4.5,
+      "version": "5.4",
+      "oldVersion": "",
+      "description": "Ứng dụng xem truyền hình,thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
+      "changelog": "",
+      "downloadUrl": "https://github.com/anhbaotv/pl/releases/download/ungdung/TV360.tv.v.5.4.apk",
+      "updateUrl": "",
+      "packageName": "com.viettel.tv360.tv",
+      "isLocked": false,
+      "screenshots": [
+        "https://lh3.googleusercontent.com/d/1_qvnOvRkZaVfETyXuEOf8-5eqXj9mU8U",
+        "https://lh3.googleusercontent.com/d/1aaSyJx-feTrl2BGw-iPyhKzPmsd7ylvK"
       ]
     },
     {
